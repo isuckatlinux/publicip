@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod +x publicip.py
-cp publicip.py /usr/local/bin/publicip
+sudo chmod +x publicip.py
+sudo cp publicip.py /usr/local/bin/publicip
